@@ -11,3 +11,6 @@ I will be working on:
 
 MCPE Ubuntu Skin pack forcer
 Minecraft autoclicker
+Ubuntu Soundboard
+Discord bot
+
