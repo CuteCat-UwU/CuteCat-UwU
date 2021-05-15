@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 I will be working on: 
 
-MCPE Ubuntu Skin pack forcer
-Minecraft autoclicker
-Ubuntu Soundboard
-Discord bot
-notebook with optional encryption
+MCPE Ubuntu Skin pack forcer<br/>
+Minecraft autoclicker<br/>
+Ubuntu Soundboard<br/>
+Discord bot<br/>
+notebook with optional encryption<br/>
