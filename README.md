@@ -11,3 +11,6 @@ I will be working on:
 
 Discord bot<br/>
 notebook with optional encryption<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuteCat-UwU)](https://github.com/anuraghazra/github-readme-stats)
+
