@@ -6,6 +6,3 @@ You can click the Preview link to take a look at your changes.
 --->
 I am a puzzle solver and i like problem solving very much<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uday-sudo)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uday-sudo)](https://github.com/anuraghazra/github-readme-stats)
